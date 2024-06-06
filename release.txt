@@ -1,0 +1,13 @@
+{
+    "id":"cppsdk1226",
+    "version":"12.26",
+    "name":"c++-采图-分割-混合精度-多线程",
+    "description":"基于aidlitesdk的c++实现",
+    "models":[
+        {"id":0,
+        "version":"R6",
+        "type":"Location",
+        "name":"det_bestModelIoU_0.98_v_t_0.98_epoch_156.dlc",
+        "description":"object_detection",
+        "timestamp":"20230921152426"}]
+}

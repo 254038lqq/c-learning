@@ -1,0 +1,3 @@
+/var/opt/aidlux/data/cpf/aid-sve/file/pkg/cppsdk1226/12.26/src/build/CMakeFiles/rebuild_cache.dir
+/var/opt/aidlux/data/cpf/aid-sve/file/pkg/cppsdk1226/12.26/src/build/CMakeFiles/edit_cache.dir
+/var/opt/aidlux/data/cpf/aid-sve/file/pkg/cppsdk1226/12.26/src/build/CMakeFiles/svapp.dir
